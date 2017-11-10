@@ -1,0 +1,22 @@
+Running Notes
+
+- #cut50 petition version
+- Emails
+- Dream Corp petition version
+- Fix Demand Progress sendy list code
+- OMI Social Tracking Menu
+- OMI 404 page
+- Kaptur 404 page
+- Kaptur hero image
+- Kaptur ActBlue Express msg
+- Kaptur Meet Marcy max-width (like news page)
+- Kaptur add issues nav buttons
+- Heenan pixel
+- investigate Kaptur petition weirdness
+- check in w/ Josh
+// - Development Posting
+// - OMI Tracking
+// - OMI Meta img
+// - OMI footer link
+// - Green for All form fields issue
+// - Green for All background attachment
